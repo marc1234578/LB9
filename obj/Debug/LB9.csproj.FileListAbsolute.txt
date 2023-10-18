@@ -1,0 +1,8 @@
+C:\Users\Usuario\Downloads\Laboratorio 9\LB9\obj\Debug\LB9.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Laboratorio 9\LB9\obj\Debug\LB9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\Laboratorio 9\LB9\obj\Debug\LB9.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Laboratorio 9\LB9\bin\Debug\LB9.exe.config
+C:\Users\Usuario\Downloads\Laboratorio 9\LB9\bin\Debug\LB9.exe
+C:\Users\Usuario\Downloads\Laboratorio 9\LB9\bin\Debug\LB9.pdb
+C:\Users\Usuario\Downloads\Laboratorio 9\LB9\obj\Debug\LB9.exe
+C:\Users\Usuario\Downloads\Laboratorio 9\LB9\obj\Debug\LB9.pdb
